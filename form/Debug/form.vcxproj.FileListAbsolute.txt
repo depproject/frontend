@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\form\form\Debug\form.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\form\form\Debug\form.Form1.resources
+C:\Users\USER\source\repos\form\form\Debug\form.vcxproj.GenerateResource.cache
